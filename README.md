@@ -23,15 +23,14 @@ I developed numerous websites and mobile apps with many entrepreneurs and philan
 ✔ PHP/Laravel/CodeIgniter/Symfony <br>
 ✔ WordPress, Magento, Drupal, Shopify<br>
 ✔ Python/Django/Flask/Ruby on Rails/ASP.NET<br>
-✔ Flutter/IONIC/React Native/Xamarin<br>
 ✔ HTML5/jQuery/CSS/SCSS, Bootstrap/TailwindCSS<br>
 ✔ MongoDB, MySQL, MSSQL, PostgreSQL<br>
 ✔ Template, Theme and Script customization<br>
 ✔ Payment, Facebook, Instagram, Google, and so on API integration, OpenCV<br>
 ✔ NetSuite, SalesForce, Zoho CRM<br>
-✔ React/Next/Redux toolkit, Vue/Nuxt, Angular, Node/Express, ES5/ES6/Typescript<br>
+✔ Vue/Nuxt, Angular, Node/Express, ES5/ES6/Typescript<br>
 ✔ AWS (EC2, Cognito, S3 bucket, Lambda), Git, Docker, Heroku<br>
-✔ ERP, CRM, Ecommerce, Marketplace, Ba2B, B2C, SEO, Cryptocurrency<br>
+✔ ERP, CRM, Ecommerce, Marketplace, Ba2B, B2C, SEO<br>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatific-angel&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
