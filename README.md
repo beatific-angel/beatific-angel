@@ -1,4 +1,3 @@
-## Welcome 🎉 to my profile:
 
 Gained extensive experience in developing many web  projects over 10 years.<br>
 I developed numerous websites and mobile apps with many entrepreneurs and philanthropists around the world over the past period.<br>
@@ -12,6 +11,10 @@ I developed numerous websites and mobile apps with many entrepreneurs and philan
 ✨ I will implement your great ideas to be live perfectly.<br>
 
 ## Connect with me:
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatific-angel&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=beatific-angel.visitor-badge)
 
 <a href="https://wa.me/447542904592" rel="nofollow"><img align="left" alt="Sabesan | Whatsapp" height="22px" src="https://github.com/sabesansathananthan/sabesansathananthan/raw/master/SocialLogo/WhatsApp.png" style="max-width:100%;"></a>
 <a href="https://telegram.me/beatificangel" rel="nofollow"><img align="left" alt="Sabesan | Telegram" height="22px" src="https://github.com/sabesansathananthan/sabesansathananthan/raw/master/SocialLogo/Telegram.png" style="max-width:100%;"></a>
@@ -32,6 +35,3 @@ I developed numerous websites and mobile apps with many entrepreneurs and philan
 ✔ AWS (EC2, Cognito, S3 bucket, Lambda), Git, Docker, Heroku<br>
 ✔ ERP, CRM, Ecommerce, Marketplace, Ba2B, B2C, SEO<br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatific-angel&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=beatific-angel.visitor-badge)
