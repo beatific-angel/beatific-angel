@@ -35,3 +35,4 @@ I developed numerous websites and mobile apps with many entrepreneurs and philan
 ✔ AWS (EC2, Cognito, S3 bucket, Lambda), Git, Docker, Heroku<br>
 ✔ ERP, CRM, Ecommerce, Marketplace, Ba2B, B2C, SEO<br>
 
+https://github-profile-trophy.vercel.app/?username=beatific-angel&theme=onedark&title=MultiLanguage,Commit,Repositories,Stars,Followers
