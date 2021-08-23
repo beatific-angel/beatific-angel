@@ -39,4 +39,4 @@ I developed numerous websites and mobile apps with many entrepreneurs and philan
 
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=beatific-angel&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=beatific-angel&theme=onedark&title=MultiLanguage,Commit,Repositories,Stars,Followers)
