@@ -12,6 +12,8 @@ I developed numerous websites and mobile apps with many entrepreneurs and philan
 
 ## Connect with me:
 
+<p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/af28230f1eaf1c5450178f7f3f951130597d80683ad1ff31db1ea4b13dc79ffe/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d636d61746535363134353330267468656d653d72656163742d6461726b"><img src="https://camo.githubusercontent.com/af28230f1eaf1c5450178f7f3f951130597d80683ad1ff31db1ea4b13dc79ffe/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d636d61746535363134353330267468656d653d72656163742d6461726b" alt="Ashutosh's github activity graph" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=beatific-angel&amp;theme=react-dark" style="max-width:100%;"></a></p>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatific-angel&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=beatific-angel.visitor-badge)
@@ -35,4 +37,6 @@ I developed numerous websites and mobile apps with many entrepreneurs and philan
 ✔ AWS (EC2, Cognito, S3 bucket, Lambda), Git, Docker, Heroku<br>
 ✔ ERP, CRM, Ecommerce, Marketplace, Ba2B, B2C, SEO<br>
 
-https://github-profile-trophy.vercel.app/?username=beatific-angel&theme=onedark&title=MultiLanguage,Commit,Repositories,Stars,Followers
+
+
+<p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/40a82a6f5f0d719f18a128bb064e74f36e1493917849e8fa6dc76b565b9edf59/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d636d61746535363134353330267468656d653d6f6e656461726b267469746c653d4d756c74694c616e67756167652c436f6d6d69742c5265706f7369746f726965732c53746172732c466f6c6c6f77657273"><img src="https://camo.githubusercontent.com/40a82a6f5f0d719f18a128bb064e74f36e1493917849e8fa6dc76b565b9edf59/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d636d61746535363134353330267468656d653d6f6e656461726b267469746c653d4d756c74694c616e67756167652c436f6d6d69742c5265706f7369746f726965732c53746172732c466f6c6c6f77657273" alt="trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=beatific-angel&amp;theme=onedark&amp;title=MultiLanguage,Commit,Repositories,Stars,Followers" style="max-width:100%;"></a></p>
