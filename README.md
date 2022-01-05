@@ -12,8 +12,6 @@ I developed numerous websites and mobile apps with many entrepreneurs and philan
 
 ## Connect with me:
 
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=beatific-angel&theme=react-dark)
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatific-angel&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=beatific-angel.visitor-badge)
