@@ -11,9 +11,6 @@ I developed numerous websites and mobile apps with many entrepreneurs and philan
 ✨ I will implement your great ideas to be live perfectly.<br>
 
 ## Connect with me:
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatific-angel&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=beatific-angel.visitor-badge)
 
 <a href="https://wa.me/447542904592" rel="nofollow"><img align="left" alt="Sabesan | Whatsapp" height="22px" src="https://github.com/sabesansathananthan/sabesansathananthan/raw/master/SocialLogo/WhatsApp.png" style="max-width:100%;"></a>
