@@ -22,15 +22,14 @@ I developed numerous websites and mobile apps with many entrepreneurs and philan
 
 ✔ PHP/Laravel/CodeIgniter/Symfony <br>
 ✔ WordPress, Magento, Drupal, Shopify<br>
-✔ Python/Django/Flask/Ruby on Rails/ASP.NET<br>
+✔ Vue/Nuxt, Angular, Node/Express, React/Next<br>
 ✔ HTML5/jQuery/CSS/SCSS, Bootstrap/TailwindCSS<br>
+✔ VOIP/SIP/Asterisk/FreePBX, LinPhone/WebRTC phone<br>
 ✔ MongoDB, MySQL, MSSQL, PostgreSQL<br>
-✔ Template, Theme and Script customization<br>
-✔ Payment, Facebook, Instagram, Google, and so on API integration, OpenCV<br>
+✔ Python/Django/Flask/Ruby on Rails/ASP.NET<br>
 ✔ NetSuite, SalesForce, Zoho CRM<br>
-✔ Vue/Nuxt, Angular, Node/Express, ES5/ES6/Typescript<br>
-✔ AWS (EC2, Cognito, S3 bucket, Lambda), Git, Docker, Heroku<br>
 ✔ ERP, CRM, Ecommerce, Marketplace, Ba2B, B2C, SEO<br>
+✔ AWS (EC2, Cognito, S3 bucket, Lambda), Git, Docker, Heroku<br>
 
 
 
