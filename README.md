@@ -28,7 +28,7 @@ I developed numerous websites and mobile apps with many entrepreneurs and philan
 ✔ MongoDB, MySQL, MSSQL, PostgreSQL<br>
 ✔ Python/Django/Flask/Ruby on Rails/ASP.NET<br>
 ✔ NetSuite, SalesForce, Zoho CRM<br>
-✔ ERP, CRM, Ecommerce, Marketplace, Ba2B, B2C, SEO<br>
+✔ ERP, CRM, Ecommerce, Marketplace, B2B, B2C, SEO<br>
 ✔ AWS (EC2, Cognito, S3 bucket, Lambda), Git, Docker, Heroku<br>
 
 
