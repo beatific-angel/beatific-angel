@@ -13,7 +13,6 @@ I developed numerous websites and mobile apps with many entrepreneurs and philan
 ## Connect with me:
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=beatific-angel.visitor-badge)
 
-<a href="https://wa.me/447542904592" rel="nofollow"><img align="left" alt="Sabesan | Whatsapp" height="22px" src="https://github.com/sabesansathananthan/sabesansathananthan/raw/master/SocialLogo/WhatsApp.png" style="max-width:100%;"></a>
 <a href="https://telegram.me/beatificangel" rel="nofollow"><img align="left" alt="Sabesan | Telegram" height="22px" src="https://github.com/sabesansathananthan/sabesansathananthan/raw/master/SocialLogo/Telegram.png" style="max-width:100%;"></a>
 <a href="https://join.skype.com/invite/Ft4e8jgCb9M5" rel="nofollow"><img align="left" alt="Sabesan | Skype" height="22px" src="https://github.com/sabesansathananthan/sabesansathananthan/raw/master/SocialLogo/Skype.png" style="max-width:100%;"></a>
 <br />
