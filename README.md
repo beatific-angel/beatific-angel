@@ -31,6 +31,6 @@ EMAIL: sh225823@gmail.com
 ✔ ERP, CRM, Ecommerce, Marketplace, B2B, B2C, SEO<br>
 ✔ AWS (EC2, Cognito, S3 bucket, Lambda), Git, Docker, Heroku<br>
 
-
+https://github-readme-stats.vercel.app/api/top-langs/?username=beatific-angel&hide=html
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=beatific-angel&theme=onedark&title=MultiLanguage,Commit,Repositories,Stars,Followers)
