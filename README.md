@@ -36,6 +36,4 @@ EMAIL: sh225823@gmail.com
 
 
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=beatific-angel&hide=html&amp;layout=compact&amp;theme=radical" rel="nofollow">
-  <img align="center" src="https://camo.githubusercontent.com/633ef66468bb7b43ec480b2ce271c9152c90ce710de5e12c08debe76d1f45a10/68747470733a2f2f6769746875622d726561646d652d73746174732e7361626573616e73617468616e616e7468616e2e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d7361626573616e73617468616e616e7468616e266c61796f75743d636f6d70616374267468656d653d7261646963616c" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatific-angel&hide=html&amp;layout=compact&amp;theme=radical" style="max-width: 100%;">
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatific-angel&hide=html)](https://github.com/anuraghazra/github-readme-stats)
