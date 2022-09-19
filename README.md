@@ -37,3 +37,7 @@ EMAIL: sh225823@gmail.com
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatific-angel&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/beatific-angel/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=beatific-angel&repo=github-readme-stats" />
+</a>
