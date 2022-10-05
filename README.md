@@ -1,6 +1,10 @@
 
-Gained extensive experience in developing many web  projects over 10 years.<br>
-I developed numerous websites and mobile apps with many entrepreneurs and philanthropists around the world over the past period.<br>
+Highly versed in Web 2.0 concepts with skills in creating websites with RSS, social networking, games, and video capabilities.
+
+In-depth understanding of security, SEO, and optimization to maximize site performance.
+
+Extensive knowledge and on-hands experience in information architecture, web design, project management, and testing.
+Proven background in large-scale enterprise application implementations. Superior communication, analytical, and interpersonal skills.
 
 ## About Me:
 
