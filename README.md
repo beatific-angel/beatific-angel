@@ -17,10 +17,7 @@ Proven background in large-scale enterprise application implementations. Superio
 ## Connect with me:
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=beatific-angel.visitor-badge)
 
-EMAIL: sh225823@gmail.com
-<a href="https://telegram.me/beatificangel" rel="nofollow"><img align="left" alt="Sabesan | Telegram" height="22px" src="https://github.com/sabesansathananthan/sabesansathananthan/raw/master/SocialLogo/Telegram.png" style="max-width:100%;"></a>
-<a href="https://join.skype.com/invite/Ft4e8jgCb9M5" rel="nofollow"><img align="left" alt="Sabesan | Skype" height="22px" src="https://github.com/sabesansathananthan/sabesansathananthan/raw/master/SocialLogo/Skype.png" style="max-width:100%;"></a>
-<br />
+
 
 ## My Skills:
 
