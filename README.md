@@ -23,12 +23,10 @@ Proven background in large-scale enterprise application implementations. Superio
 
 ✔ PHP/Laravel/CodeIgniter/Symfony <br>
 ✔ Vue/Nuxt, Angular, Node/Express, React/Next<br>
-✔ Salesforce , Salesforce Commerce Cloud, B2B, B2C<br>
 ✔ HTML5/jQuery/CSS/SCSS, Bootstrap/TailwindCSS<br>
 ✔ VOIP/SIP/Asterisk/FreePBX, LinPhone/WebRTC phone<br>
 ✔ MongoDB, MySQL, MSSQL, PostgreSQL<br>
 ✔ Python/Django/Flask/Ruby on Rails/ASP.NET<br>
-✔ NetSuite, SalesForce, Zoho CRM<br>
 ✔ AWS (EC2, Cognito, S3 bucket, Lambda), Git, Docker, Heroku<br>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=beatific-angel&theme=onedark&title=MultiLanguage,Commit,Repositories,Stars,Followers)
